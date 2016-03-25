@@ -1,0 +1,1 @@
+Those files are rom data for Xilinx ISE (probably also working with vivado).
